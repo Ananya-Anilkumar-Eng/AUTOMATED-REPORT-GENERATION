@@ -14,6 +14,6 @@
 
 # DESCRIPTION
 
-This project focuses on Automated PDF generation using Python. Here a dataset is loaded, analysed and has been generated into as PDF through python modules.The dataset I have used is--"https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv"-- a csv file consisting of PIMA INDIAN DIABETES data. The PDF consists of _General Infromation, Descriptive Statistics, Univariate and Bivariate Analysis, Data Visualization_
+This project focuses on Automated PDF generation using Python. Here a dataset is loaded, analysed and has been generated into as PDF through python modules.The dataset I have used is-- "https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv" -- a csv file consisting of PIMA INDIAN DIABETES data. The PDF consists of _General Infromation, Descriptive Statistics, Univariate and Bivariate Analysis, Data Visualization_
 
 The task was performed in _**Python IDLE**_ and can also be performed in _**Jupyter Notebook, Spyder, VS Code**_ with necessary modules available.The modules used for this project--**_pandas, matplotlib, seaborn, statsmodels(Data Visualization and Analysis) and reportlab(PDF generation)_**--.
