@@ -20,4 +20,4 @@ The task was performed in _**Python IDLE**_ and can also be performed in _**Jupy
 
 # OUTPUT
 
-[pima_report.pdf](https://github.com/user-attachments/files/20639472/pima_report.pdf)
+![Image](https://github.com/user-attachments/assets/ffd664c3-9007-4305-b980-2c1b9bce48ee)
